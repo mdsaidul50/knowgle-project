@@ -1,9 +1,9 @@
-## Course Registration;
+Course Registration;
 <li> hello i am saidul</li>
 <li> hello i am saidul</li>
 <li> hello i am saidul</li>
 
-# hello
+ hello
 <li> hello i am saidul</li>
 <li> hello i am saidul</li>
 <li> hello i am saidul</li>
